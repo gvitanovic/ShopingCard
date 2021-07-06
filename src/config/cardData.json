@@ -1,0 +1,66 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Random Name #1",
+            "description": "1 - Probably the most random thing you have ever seen!"
+        },
+        {
+            "id": 2,
+            "name": "Random Name #2",
+            "description": "2- Hello World!"
+        },
+        {
+            "id": 3,
+            "name": "Random Name #3",
+            "description": "3 - Hello World!"
+        }
+    ],
+    "text": {
+        "title": "Lorem ipsum dolor",
+        "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.  Consequuntur nam placeat, nobis beatae, quasi est soluta nesciunt suscipit voluptate, voluptatem cum facere.  Magnam in praesentium unde dolor, eum quos quae.",
+        "list": [
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat ducimus, excepturi nihil fuga nobis dicta architecto assumenda accusamus voluptatum provident consequuntur labore, dignissimos praesentium! Earum impedit maxime perferendis rem beatae!",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum voluptate odio quisquam dignissimos hic inventore aut voluptas quibusdam quo, esse autem perferendis consectetur nisi, blanditiis consequatur nemo sapiente porro! Quia.",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe quae id sequi obcaecati suscipit numquam consequuntur maiores repudiandae natus alias voluptatibus eveniet, magni distinctio aliquam, minima eius non possimus. Fuga?",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat ducimus, excepturi nihil fuga nobis dicta architecto assumenda accusamus voluptatum provident consequuntur labore, dignissimos praesentium! Earum impedit maxime perferendis rem beatae!",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum voluptate odio quisquam dignissimos hic inventore aut voluptas quibusdam quo, esse autem perferendis consectetur nisi, blanditiis consequatur nemo sapiente porro! Quia.",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe quae id sequi obcaecati suscipit numquam consequuntur maiores repudiandae natus alias voluptatibus eveniet, magni distinctio aliquam, minima eius non possimus. Fuga?"
+        ]
+    },
+    "modal": {
+        "title": "Adding to shopping list...",
+        "body": " Lorem ipsum dolor, sit amet consectetur adipisicing elit.  Dolor omnis quaerat, eaque vitae a, quo modi voluptates earum odit doloribus labore ut.  Corporis, voluptas architecto? Laborum voluptatem molestiae libero totam!"
+    },
+    "selector": {
+        "label": "Size",
+        "options": [
+            {
+                "id": 1,
+                "label": "14 cl",
+                "value": "14"
+            },
+            {
+                "id": 2,
+                "label": "28 cl",
+                "value": "28"
+            }
+        ]
+    },
+    "values": [
+        {
+            "id": 1,
+            "name": "14 cl image",
+            "selectorId": 1,
+            "description": "this is the 14 cl image",
+            "src": "0000FF.png"
+        },
+        {
+            "id": 2,
+            "name": "28 cl image",
+            "selectorId": 2,
+            "description": "this is the 28 cl image",
+            "src": "00FFFF.png"
+        }
+    ]
+}
